@@ -1,4 +1,4 @@
-# Music Player
+# EchoStream
 
 Welcome to the audio player! This is a simple web application that allows users to upload an audio file, play, pause, and replay it with a sleek user interface.
 
